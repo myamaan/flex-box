@@ -1,0 +1,13 @@
+.container {
+    border: 2px solid #000000;
+    display: flex;
+    height: 400px;
+    justify-content: space-between;
+    /* justify-content: space-around;
+    justify-content: space-evenly; */
+    
+
+}
+.children {
+    background-color: #ff0000;
+}
